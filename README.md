@@ -2,9 +2,9 @@
 
 ![image alt](https://github.com/gowtthamm/AWS--VPC-PROJECT/blob/c6e17508080f4e32fa4cc5fb3b910591ff4366fe/VPC_Architecture.jpg)
 
-COMPONENT AND CONFIGURTION :
+🧑🏻‍💻 COMPONENT AND CONFIGURTION :
 
-1 . VPC (CIDR: 10.0.0.0/16): Acts as a logically isolated network in AWS to host all resources.
+01. VPC (CIDR: 10.0.0.0/16): Acts as a logically isolated network in AWS to host all resources.
 
 02. Public Subnet (10.0.1.0/24): Contains an EC2 instance with direct internet access via an Internet Gateway. This is ideal for web servers and publicly accessible applications.
 
@@ -16,8 +16,9 @@ COMPONENT AND CONFIGURTION :
 
 06. Private route table sends internet-bound traffic from the private subnet to the NAT Gateway.
 
-PURPOSE AND OUTCOME 
+🚀 PURPOSE AND OUTCOME 
 
-Allow selective internet access from private networks.
-Secure internal resources Like databases and application servers.
+• Allow selective internet access from private networks.
+
+• Secure internal resources Like databases and application servers.
 
