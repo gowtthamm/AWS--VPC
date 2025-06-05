@@ -24,3 +24,5 @@
 
 • Secure internal resources Like databases and application servers.
 
+![image alt](https://github.com/gowtthamm/AWS--VPC-PROJECT/blob/fccb8accb078809b9dc647d01c94e6212e073ab3/OutPut.png)
+
