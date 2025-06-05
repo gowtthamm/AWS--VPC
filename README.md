@@ -24,6 +24,8 @@
 
 • Secure internal resources Like databases and application servers.
 
+![image alt](https://github.com/gowtthamm/AWS--VPC-PROJECT/blob/e4e70af8e63191fdcec7ea5ba870f866af71c8cf/Subnet.png)
+
 ![image alt](https://github.com/gowtthamm/AWS--VPC-PROJECT/blob/1f67c791fc27f7949d6bceb253e0c0a403c882e6/NAT.png)
 
 ![image alt](https://github.com/gowtthamm/AWS--VPC-PROJECT/blob/2029f7aad26316fdf1aa5f099ca870c6ae5cb7a9/Route%20Table.png)
