@@ -52,7 +52,9 @@ PUBLIC SERVER
 <img src="https://github.com/gowtthamm/AWS--VPC-PROJECT/blob/fcf41c9ec6b2b51788423767765c2d263130a516/Public%20server.png" width="700"
 height="300"/>
 
-ACCESSING PRIVATE SERVER THROUGH PUBLIC SERVER 
+PRIVATE SERVER 
+
+  ACCESSING PRIVATE SERVER THROUGH PUBLIC SERVER 
 
 <img src="https://github.com/gowtthamm/AWS--VPC-PROJECT/blob/fccb8accb078809b9dc647d01c94e6212e073ab3/OutPut.png" width="700" height="300" />
 
