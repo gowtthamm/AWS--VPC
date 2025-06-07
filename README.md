@@ -24,6 +24,9 @@
 
 • Secure internal resources Like databases and application servers.
 
+LINUX COMMAND TO ACCESS THE PRIVATE SERVER 
+-->  ssh -i "password filename " ec2-user@ip-address
+
 
 
 <img src="https://github.com/gowtthamm/AWS--VPC-PROJECT/blob/e4e70af8e63191fdcec7ea5ba870f866af71c8cf/Subnet.png" width="700" height="300" />
