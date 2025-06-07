@@ -47,7 +47,12 @@ LINUX COMMAND TO ACCESS THE PRIVATE SERVER
 
 <img src="https://github.com/gowtthamm/AWS--VPC-PROJECT/blob/ac4af26a18ddd6b28869ef3d628f7996d7b1327d/Linux.png" width="700" height="300" />
 
+PUBLIC SERVER
 
+<img src="https://github.com/gowtthamm/AWS--VPC-PROJECT/blob/fcf41c9ec6b2b51788423767765c2d263130a516/Public%20server.png" width="700"
+height="300"/>
+
+ACCESSING PRIVATE SERVER THROUGH PUBLIC SERVER 
 
 <img src="https://github.com/gowtthamm/AWS--VPC-PROJECT/blob/fccb8accb078809b9dc647d01c94e6212e073ab3/OutPut.png" width="700" height="300" />
 
