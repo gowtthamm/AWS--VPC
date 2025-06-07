@@ -24,7 +24,9 @@
 
 • Secure internal resources Like databases and application servers.
 
+
 LINUX COMMAND TO ACCESS THE PRIVATE SERVER 
+
 -->  ssh -i "password filename " ec2-user@ip-address
 
 
